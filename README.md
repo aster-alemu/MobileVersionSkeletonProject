@@ -2,7 +2,7 @@
 
 This is the second project at Microverse first week activity.
 - After creating the remote repository clone it using the command git clone git@github.com:aster-alemu/MobileVersionSkeletonProject.git
-- The next step was to make sure that there is no linter errors and for this I set-up gitHub actions and set-up linters in my local environment
+- The next step was to make sure that there is no linter errors and for this I set-up gitHub actions and set-up linters in my local environment using the terminal
 - Then create branch repository using the command git branch which is followed by the name of new branch
 - After creating the branch repository, switch from main branch to new branch using the command git checkout which is followed by the name of new branch created
 - Then create index.html file and write the contents
