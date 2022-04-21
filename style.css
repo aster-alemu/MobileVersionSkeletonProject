@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
 
-.home {
+.main {
   display: grid;
   grid-template-rows: 92px 750px;
   width: 375px;
