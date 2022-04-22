@@ -28,7 +28,7 @@ To create this kind of portfolio website, first create new repository with descr
 
 ## Install
 
-Run this project on local device by downloading or clone the project from GitHub
+Run this project on local device by downloading or cloning the project from GitHub
 
 ## Authors
 
