@@ -1,0 +1,26 @@
+{
+  "name": "MobileVersionSkeletonProject",
+  "version": "1.0.0",
+  "description": "This is the first project at Microverse first week activity.\r - After creating the remote repository clone it using the command git clone git@github.com:aster-alemu/HelloMicroverseProject.git \r - The next step was to make sure that there is no linter errors and for this I set-up gitHub actions and set-up linters in my local environment\r - Then create branch repository using the command git branch which is followed by the name of new branch\r - After creating the branch repository, switch from main branch to new branch using the command git checkout which is followed by the name of new branch created\r - Then create index.html file and write the contents\r - After that I create style.css file and link with the index.html file using the link tag\r - Then seening the result by opening the index.html file using Live Server\r - I check the if there is style errors by runing the command npx stylelint \"**/*.{css,scss}\"\r - I check if there is error on html file my runing the command npx hint . on the terminal\r - Then stage the all the files using the command git add . on the terminal\r - Then update the file using the command git commit -m followed by the commit message with double qouts on the terminal\r - Push the files using the command git push --set-upstream origin followed by the name of the branch on the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aster-alemu/MobileVersionSkeletonProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aster-alemu/MobileVersionSkeletonProject/issues"
+  },
+  "homepage": "https://github.com/aster-alemu/MobileVersionSkeletonProject#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
