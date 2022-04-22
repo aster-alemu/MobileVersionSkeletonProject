@@ -9,19 +9,14 @@ This is the second project at Microverse first week activity and my portfolio we
 
 ## Getting Started
 
-in the process of creating this portfolio website,set up a new repository and prepare it for development using best practices like linters. Build the first 2 sections of the mobile website using the template in figma.
+To get a local copy up and running follow these simple steps.
 
-## Prerequisites
+1. Clone the Repo or Download the Zip file (git clone https://github.com/aster-alemu/MobileVersionSkeleton.git)
+2. Run the live server or simply open index.html with your browser.
 
-- Install editor like Vscode
-- Install broweser for seeing the result
-- Understand the concept of version control
-- GitHub account
-- Know GitHub flow
-- Set up GitHub action
-- Set up linters
-- Understand basic HTML
-- Understand Basic CSS
+## Prerequisite
+
+- None
 
 ## Setup
 To create this kind of portfolio website, first create new repository with descriptive name then copy the SSH key link of the created repository after that clone it on the local environment using the command git clone and paste the copied link 
