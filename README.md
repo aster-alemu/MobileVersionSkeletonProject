@@ -12,7 +12,7 @@ This is the second project at Microverse first week activity and my portfolio we
 To get a local copy up and running follow these simple steps.
 
 1. Clone the Repo or Download the Zip file (git clone https://github.com/aster-alemu/MobileVersionSkeleton.git)
-2. Run the live server or simply open index.html with your browser.
+2. Run the live server or simply open index.html with your browser on local machine.
 
 ## Prerequisite
 
